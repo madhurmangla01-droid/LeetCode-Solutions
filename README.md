@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0120-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
