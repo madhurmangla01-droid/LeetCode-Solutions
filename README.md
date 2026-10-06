@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
@@ -96,4 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
