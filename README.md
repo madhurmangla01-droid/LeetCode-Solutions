@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0282-expression-add-operators](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
