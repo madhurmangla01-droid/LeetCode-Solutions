@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
