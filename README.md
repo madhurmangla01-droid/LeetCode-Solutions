@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
