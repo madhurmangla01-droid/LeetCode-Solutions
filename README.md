@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0120-triangle) |
+| [0152-maximum-product-subarray](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
