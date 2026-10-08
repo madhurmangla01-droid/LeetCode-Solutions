@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
