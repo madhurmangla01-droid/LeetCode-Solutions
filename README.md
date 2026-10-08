@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2643-row-with-maximum-ones](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Quicksort
 |  |
 | ------- |
