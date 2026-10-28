@@ -67,16 +67,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0100-same-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/madhurmangla01-droid/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
